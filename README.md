@@ -7,4 +7,5 @@
 - 📫 How to reach me: https://www.linkedin.com/in/robert-felker/
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=solido&count_private=true&theme=default&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=solido&count_private=true&show_icons=true&theme=radical)
+![](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=solido&layout=compact&count_private=true&show_icons=true&theme=radical)
